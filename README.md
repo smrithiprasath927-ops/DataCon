@@ -1,5 +1,7 @@
 # DataCon
 Presentation link - https://canva.link/i6hh28vpn3aruol
+
+
 Web app prototype of an AI-based data corruption and reconstruction system using CNNs and mathematical techniques..
 
 The project combines:
